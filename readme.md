@@ -45,7 +45,7 @@ contact-search-application/
 |-- style.css
 |-- script.js
 |-- contacts_data.json
-|-- README.md
+|-- readme.md
 ```
 
 - **index.html**: The main HTML file for the Contact Search Application.
